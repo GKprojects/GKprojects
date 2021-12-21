@@ -1,11 +1,11 @@
-# Hi there, I'm Gokul 👋 
+# Hi there👋 , I'm Gokul 
 
-## I'm a Devops Engineer
--    looking for a Devops Engineer job.
+## I'm a AWS Devops_Engineer
+- practicing with Devops tools
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw .
-<br>
-### Languages and Tools:
+
+## Languages and Tools:
 <img align="left" alt="terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
