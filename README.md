@@ -1,6 +1,6 @@
 # Hi there👋 , I'm Gokul 
 
-## I'm an Devops_Engineer
+## I'm a Devops_Engineer
 - practicing with Devops tools
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw.
