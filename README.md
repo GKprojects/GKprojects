@@ -1,9 +1,9 @@
 # Hi there👋 , I'm Gokul 
 
-## I'm an AWS Devops_Engineer
+## I'm an Devops_Engineer
 - practicing with Devops tools
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw .
+- ⚡ Fun fact: I love to draw.
 
 ## Languages and Tools:
 <img align="left" alt="terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
